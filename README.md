@@ -78,7 +78,7 @@ user_social_network:
 
 ### 4. Impact of President Joe Biden's tweets on vaccination rate
 ![Tweet's impact on vaccination rate](https://github.com/olliechan92/minions/blob/main/Charts_and_images/tweets_impact.jpg?raw=true)  
-*The red lines indicates when the President tweeted about vaccination*  
+*Red lines indicate when the President tweeted about vaccination*  
 - From the previous observations we know that Joe Biden's sentiment towards getting vaccinated is positive and he also has a high level of influence on Twitter as compared to Boris Johnson on the same issue. 
 - The assumption then is that Joe Biden's tweets should have a positive and powerful impact on Covid-19's vaccination rate in USA.
 - However, as shown in the below graph of Joe Biden's tweet date vs number of new vaccinations, there is no obvious trend to support our assumption. It is therefore inconclusive. 
