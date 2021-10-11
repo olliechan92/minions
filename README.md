@@ -76,8 +76,9 @@ user_social_network:
 - We then categorized all polarity scores into 3 buckets with a positive tweet having a polarity score > 0, neutral tweet having a score of 0 and negative tweet having a score of < 0
 - From the pie chart on the left, we can observe that Joe Biden’s tweets are largely positive at 58%, hence, we can conclude his sentiments about vaccination for covid-19 are more positive.
 
-### 4. Impact of Biden's tweets on vaccination rate
+### 4. Impact of President Joe Biden's tweets on vaccination rate
 ![Tweet's impact on vaccination rate](https://github.com/olliechan92/minions/blob/main/Charts_and_images/tweets_impact.jpg?raw=true)  
+*The red lines indicates when the President tweeted about vaccination*  
 - From the previous observations we know that Joe Biden's sentiment towards getting vaccinated is positive and he also has a high level of influence on Twitter as compared to Boris Johnson on the same issue. 
 - The assumption then is that Joe Biden's tweets should have a positive and powerful impact on Covid-19's vaccination rate in USA.
 - However, as shown in the below graph of Joe Biden's tweet date vs number of new vaccinations, there is no obvious trend to support our assumption. It is therefore inconclusive. 
