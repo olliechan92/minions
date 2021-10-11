@@ -23,7 +23,7 @@ An article by New York Times wrote:
 ## Code and Resources Used
 
 **Python Version:** 3.9  
-**Packages:** Tweepy, Pandas, Time, RE, Sqlalchemy, Matplotlib, NLTK, Wordcloud, Numpy, Pillow, Itertools, Collections, Textblob, Datetime, Decimal
+**Packages:** Tweepy, Pandas, Time, RE, Sqlalchemy, Matplotlib, NLTK, Wordcloud, Numpy, Pillow, Itertools, Collections, Textblob, Datetime, Decimal  
 **Dataset:** Utilized [Our World In Data's COVID Deaths dataset](https://ourworldindata.org/covid-deaths) to observe Biden's tweets impact
 
 ## Database Schema  
